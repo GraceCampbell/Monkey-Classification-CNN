@@ -17,12 +17,11 @@
 ## Learning Objectives
 
 *By the end of this lesson, students should be able to:*
-1. Identify use cases for convolutional neural networks.
+1. Identify use cases for convolutional neural networks and when they are superior to other neural networks.
 2. Understand how edge detection works in CNNs.
-3. Define and describe padding and strided convolutions.
-4. Understand how convolutions operate on volumes.
-5. Define pooling and implement max pooling.
-6. Fit a CNN in Keras.
+3. Describe convolutional and pooling layers.
+4. Define padding and filters.
+5. Fit CNNs in Keras.
 
 ---
 
@@ -38,11 +37,11 @@
 
 ## Lesson Outline
 
-> **Total Time: 120 mins**
+> **Total Time: 110 mins**
 
-I. **Introduction to CNNs** (80 minutes total)
+I. **Feed-Forward Neural Networks** (30 minutes total)
 
-II. **CNNs in Keras** (40 minutes total)
+II. **CNNs in Keras** (80 minutes total)
 
 ---
 
@@ -52,4 +51,7 @@ II. **CNNs in Keras** (40 minutes total)
 
 - [Keras Documentation: Convolutional Layers](https://keras.io/layers/convolutional)
 - [Keras Documentation: Pooling Layers](https://keras.io/layers/pooling/)
+- [Convolution Visualizer](https://ezyang.github.io/convolution-visualizer/)
+- [Medium Article on CNNs](https://towardsdatascience.com/convolutional-neural-network-17fb77e76c05)
+- [Medium Article on CNNs with lots of visuals](https://towardsdatascience.com/understanding-convolutional-neural-networks-through-visualizations-in-pytorch-b5444de08b91)
 ---
