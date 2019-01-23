@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Convolutional Neural Network Slides | [Link](./cnn.pdf)|
+| Lesson | Edge Detection Slides | [Link](./edge-detection.pdf)|
 | Lesson | Convolutional Neural Network Jupyter Notebook | [Link](./starter-code.ipynb)|
 
 > **Dataset description:** MNIST Handwritten Digits Dataset
